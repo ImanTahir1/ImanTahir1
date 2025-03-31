@@ -1,4 +1,4 @@
-- Hi, I’m @ImanTahir1
+- Hi, I am @ImanTahir1
 - I am interested in data, technology, and R programming.
 - I am currently learning about data ETL and querying.
 - I am looking to enhance my R programming and data skills. 
